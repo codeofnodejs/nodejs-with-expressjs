@@ -1,0 +1,23 @@
+{
+    "name": "nodejs-with-expressjs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "meadowlark.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/codeofnodejs/nodejs-with-expressjs.git"
+    },
+    "author": "ducito",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/codeofnodejs/nodejs-with-expressjs/issues"
+    },
+    "homepage": "https://github.com/codeofnodejs/nodejs-with-expressjs#readme",
+    "dependencies": {
+        "express": "~4.4.2",
+        "express3-handlebars": "^0.5.2"
+    }
+}
